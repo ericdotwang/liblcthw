@@ -7,3 +7,5 @@ http://c.learncodethehardway.org/
 
 This code is usually in sync with the book, but sometimes it gets out of sync during editing sessions.  If you find a difference or a bug, just submit your pull request and I'll take a look.
 
+翻译版请参考：https://wizardforcel.gitbooks.io/lcthw/content/
+
